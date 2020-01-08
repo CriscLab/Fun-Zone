@@ -19,4 +19,5 @@
 
   
 ## Trivia
+
 How many windows are there in our lab?
