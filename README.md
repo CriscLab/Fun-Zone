@@ -1,4 +1,4 @@
-# Fun Zone
+# Fun-Zone
 
 [[About]](https://crisclab.github.io/About/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [[Publications]](https://crisclab.github.io/Publications/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
