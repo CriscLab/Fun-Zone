@@ -8,7 +8,7 @@
 ## Activities
 
 <p align="center">
-  Monthly Meeting Warm-up Presentation by Oscar - Dec 2020
+  IAC Monthly Meeting Warm-up Presentation by Oscar - Dec 2020
 </p>
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/59631555/71949235-7242ec80-3198-11ea-9255-f1d75c157e2f.jpg">
